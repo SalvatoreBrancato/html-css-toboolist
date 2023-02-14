@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    vertical-align: middle;
+}
+
+h1{
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.container1{
+    background-color: lightgray;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container2{
+    height: 80px;
+    width: 70%;
+    background-color: white;
+    margin: auto;
+    border-top-right-radius: 3%;
+    border-top-left-radius: 3%; 
+     
+}
+
+.container3{
+    height: 200px;
+    width: 70%;
+    background-color: white;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.bt1{
+    background-color: skyblue;
+    border-radius: 10%;
+    color: white;
+    font-weight: bold;
+    border-color: rgb(5, 177, 245);
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.bt2{
+    background-color: white;
+    border-radius: 10% 10% 10% 10%;
+    color: lightgray;
+    font-weight: bold;
+    border-color: lightgray;
+    height: 30px;
+    width: 100px;
+}
